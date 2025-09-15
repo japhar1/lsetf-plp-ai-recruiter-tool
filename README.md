@@ -23,7 +23,7 @@ This AI-powered platform analyzes applicant data and recommends top candidates f
 ## 🚀 Live Deployment
 
 ### Frontend Application
-**🌐 URL:** `https://https://lsetf-plp-ai-recruiter-tool.streamlit.app/`
+**🌐 URL:** `https:lsetf-plp-ai-recruiter-tool.streamlit.app/`
 
 ### Backend API
 **🔧 API Base URL:** `https://lsetf-backend.wonderfulbush-d6fad849.eastus.azurecontainerapps.io`  
