@@ -54,7 +54,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # API configuration
-API_BASE_URL = "http://localhost:8000"  # Change if your API is hosted elsewhere
+API_BASE_URL = 'https://lsetf-backend.wonderfulbush-d6fad849.eastus.azurecontainerapps.io'
 
 def check_api_health():
     """Check if the API is running."""
